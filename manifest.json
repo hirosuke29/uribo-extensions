@@ -1,7 +1,6 @@
 {
   "name": "uribo-net extention",
   "version": "1",
-  "manifest_version": 2,
   "description": "Yet Another uribo-net Extention",
   "content_scripts": [
     {
